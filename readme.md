@@ -52,12 +52,6 @@ Definir qué elementos HTML extraer:
 python src/main.py
 ```
 
-### Ejecución desde el directorio raíz
-
-```bash
-python -m src.main
-```
-
 ## Salida
 
 Los resultados se guardan automáticamente en la carpeta `output/` con el formato:
