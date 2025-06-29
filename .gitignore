@@ -1,0 +1,8 @@
+# Python cache files
+__pycache__/
+
+# Configuration files
+configs/
+
+# Generated output files
+output/
